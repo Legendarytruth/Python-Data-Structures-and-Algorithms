@@ -33,3 +33,4 @@ True
 >>> print(s.size())
 2
 The `Stack` class is a useful data structure for implementing a variety of algorithms, such as the infix-to-postfix conversion algorithm and the binary search algorithm.
+You can view code here [stack class](/Starting Files/a_star.py)
